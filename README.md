@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Static Badge](https://img.shields.io/badge/email?style=flat&logoColor=blue)
+<img alt="Static Badge" src="https://img.shields.io/badge/email?style=flat&logoColor=blue">
+
 
 
 <!--
