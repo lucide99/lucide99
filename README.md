@@ -55,15 +55,18 @@ My goal is to be an expert who pursues technology for a better world and life.<b
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
 <br><br><br>
 
+<!--
 # 👾 BOJ solved.ac Rank
 #<br><br>
 #[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejy1373)](https://solved.ac/leejy1373/)
-<br>
-<br>
-<br>
-<br>
+#<br>
+#<br>
+#<br>
+#<br>
 #<div align = "center">
 #<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBBARRY-#Lee&count_bg=%23356DB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a><br><br>
+-->
+
 
 ---
 
