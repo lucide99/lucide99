@@ -15,9 +15,10 @@ My goal is to be an expert who pursues technology for a better world and life.<b
   
 💁🏻‍♀️ If you want to contact me, please click the icons.<br><br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gang99007@gmail.com)](mailto:gang99007@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjk527@pusan.ac.kr)](mailto:mjk527@pusan.ac.kr)
 [![GitHub Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://lucide99.github.io/about/)](https://lucide99.github.io)
-#[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-lee-#b4136424b/)](https://www.linkedin.com/in/jiyun-lee-b4136424b/)
+<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-lee-#b4136424b/)](https://www.linkedin.com/in/jiyun-lee-b4136424b/)
+-->
 <br><br>
 
 ---
